@@ -1,4 +1,4 @@
-# 纯粹的使用 webpack 构建项目的脚手架
+# 极简的 webpack 打包项目的脚手架
 
 - 支持 webpack-dev-server 以及热加载功能
 - 支持打包 build
