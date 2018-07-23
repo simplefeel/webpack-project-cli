@@ -7,7 +7,7 @@
 
 用于打包 js 插件库，免去练习 demo 需要重复 copy 配置的烦恼
 
-> 示例项目就是一个原生实现 router 路由的项目，分为 hash 和 histroy 两种方式
+> 示例项目就是一个原生实现 router 路由的项目，分为 hash 和 histroy 两种方式
 
 ## 后续（待完成）
 
